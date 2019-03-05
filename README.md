@@ -10,3 +10,5 @@ Day 4: Reviewed Procs and Yield in Ruby.
 Day 5: was traveling for work. listened to coding podcasts from code newbie
 
 Day 6: worked through review of Procs, lambdas and blocks in Ruby. Starting Rails ammusment park lab tomorrow
+
+Day 7: worked through Flatiron School Rails Amusement Park lab migrations and associations. Following tests and have almost completed class methods. 
