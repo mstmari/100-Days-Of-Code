@@ -12,3 +12,5 @@ Day 5: was traveling for work. listened to coding podcasts from code newbie
 Day 6: worked through review of Procs, lambdas and blocks in Ruby. Starting Rails ammusment park lab tomorrow
 
 Day 7: worked through Flatiron School Rails Amusement Park lab migrations and associations. Following tests and have almost completed class methods. 
+
+Day 8: Began working on unit tests, and building out the session controller and signup
