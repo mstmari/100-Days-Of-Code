@@ -13,6 +13,6 @@ Day 6: worked through review of Procs, lambdas and blocks in Ruby. Starting Rail
 
 Day 7: worked through Flatiron School Rails Amusement Park lab migrations and associations. Following tests and have almost completed class methods. 
 
-Day 8: Began working on unit tests, and building out the session controller and signup
+Day 8: Began working on unit tests, and building out the session controller and signup.
 
 Day 9: working on feature tests on Rails Amusement Park lab. Built out signup, and worked on session. Also watched live stream of local open source software meetup. 
