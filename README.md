@@ -18,3 +18,5 @@ Day 8: Began working on unit tests, and building out the session controller and 
 Day 9: working on feature tests on Rails Amusement Park lab. Built out signup, and worked on session. Also watched live stream of local open source software meetup. 
 
 Day 10: Continued work on Amusement park feature testing. Working on regaining confidence in deciphering error messages. 
+
+Day 11: finished session controller and user sign-up/sign-in
