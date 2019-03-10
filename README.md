@@ -20,3 +20,5 @@ Day 9: working on feature tests on Rails Amusement Park lab. Built out signup, a
 Day 10: Continued work on Amusement park feature testing. Working on regaining confidence in deciphering error messages. 
 
 Day 11: finished session controller and user sign-up/sign-in
+
+Day 12: did not accomplish much, worked on admin sign up and read about firebase and API design patterns. 
