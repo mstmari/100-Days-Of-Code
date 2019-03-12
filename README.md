@@ -23,4 +23,6 @@ Day 11: finished session controller and user sign-up/sign-in
 
 Day 12: did not accomplish much, worked on admin sign up and read about firebase and API design patterns. 
 
-Day 13: Built out admin and logout feature tests.  I want to finish Amusement park tomorrow monday 2/11
+Day 13: Built out admin and logout feature tests.
+
+Day 14: atteneded study group and completed on coding challenge on CodePen
