@@ -25,4 +25,6 @@ Day 12: did not accomplish much, worked on admin sign up and read about firebase
 
 Day 13: Built out admin and logout feature tests.
 
-Day 14: atteneded study group and completed on coding challenge on CodePen
+Day 14: atteneded online study group and completed on coding challenge on CodePen
+
+Day 15: Made progress on feature tests. (traveling for work)
