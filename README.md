@@ -28,3 +28,5 @@ Day 13: Built out admin and logout feature tests.
 Day 14: atteneded online study group and completed on coding challenge on CodePen
 
 Day 15: Made progress on feature tests. (traveling for work)
+
+Day 16: nearly completed rails Amusement park. Next I am going to beging going through JavaScript section on Learn.co
