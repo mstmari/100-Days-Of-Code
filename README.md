@@ -30,3 +30,5 @@ Day 14: atteneded online study group and completed on coding challenge on CodePe
 Day 15: Made progress on feature tests. (traveling for work)
 
 Day 16: nearly completed rails Amusement park. Next I am going to beging going through JavaScript section on Learn.co
+
+Day 17: Finished Amusement Park Lab! Beginning review on Rails/Javascript section tomorrow. 
