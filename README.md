@@ -32,3 +32,5 @@ Day 15: Made progress on feature tests. (traveling for work)
 Day 16: Nearly completed rails Amusement park. Next I am going to beging going through JavaScript section on Learn.co
 
 Day 17: Finished Rails Amusement Park Lab! Beginning review on Javascript section tomorrow. 
+
+Day 18: Watched Javascript videos from Udemy - Reviewing JS basics. 
