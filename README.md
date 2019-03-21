@@ -35,4 +35,6 @@ Day 17: Finished Rails Amusement Park Lab! Beginning review on Javascript sectio
 
 Day 18: Watched Javascript videos from Udemy - Reviewing JS basics. 
 
-Day 19: Reviewed control flow and loops in JS and attended study session on JS array functions. 
+Day 19: Reviewed control flow and loops in JS and attended study session on JS array functions.
+
+Day 20: worked through JS Control Flow lab. 
