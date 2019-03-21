@@ -38,3 +38,5 @@ Day 18: Watched Javascript videos from Udemy - Reviewing JS basics.
 Day 19: Reviewed control flow and loops in JS and attended study session on JS array functions.
 
 Day 20: worked through JS Control Flow lab. 
+
+Day 21: finished a JS lab, traveling for work did not complete much code. 
