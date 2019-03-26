@@ -41,4 +41,6 @@ Day 20: worked through JS Control Flow lab.
 
 Day 21: finished a JS lab, traveling for work did not complete much code. 
 
-Day 22: watched funfunfunction video on react apps, and completed scop lab on learn. 
+Day 22: watched funfunfunction video on react apps, and completed scop lab on learn.
+
+Day 23 read about JS Data Structures
