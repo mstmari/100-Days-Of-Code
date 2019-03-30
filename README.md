@@ -46,3 +46,5 @@ Day 22: watched funfunfunction video on react apps, and completed scop lab on le
 Day 23 read about JS Data Structures
 
 Day 24: Completed JS Arrays lab and touched up on object data type
+
+Day 25: worked through multiple labs and readings on objects, iteration and looping.
