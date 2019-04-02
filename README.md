@@ -48,3 +48,7 @@ Day 23 read about JS Data Structures
 Day 24: Completed JS Arrays lab and touched up on object data type
 
 Day 25: worked through multiple labs and readings on objects, iteration and looping.
+
+Day 26: Worked on JS cb functions and filter functions. 
+
+Day 27: Completed filter lab and map lab
