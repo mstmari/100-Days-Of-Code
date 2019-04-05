@@ -52,3 +52,5 @@ Day 25: worked through multiple labs and readings on objects, iteration and loop
 Day 26: Worked on JS cb functions and filter functions. 
 
 Day 27: Completed filter lab and map lab
+
+Day 28: completed filter and map lab. Moving on from Array functions and first class functions to OO Javascript. 
